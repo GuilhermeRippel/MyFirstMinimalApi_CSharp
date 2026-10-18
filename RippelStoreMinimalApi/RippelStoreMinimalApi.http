@@ -1,0 +1,6 @@
+@RippelStoreMinimalApi_HostAddress = http://localhost:5089
+
+GET {{RippelStoreMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
